@@ -1,0 +1,77 @@
+<resources>
+    <string-array name="nature_list">
+        <item>นั่งทำงานอยู่กับที่ และไม่ได้ออกกำลังกายเลย หรือน้อยมาก</item>
+        <item>ออกกำลังกายหรือเล่นกีฬาเล็กน้อย 1-3 วัน/สัปดาห์,เดินบ้างเล็กน้อย ทำงานออฟฟิศ</item>
+        <item>ออกกำลังกายหรือเล่นกีฬาปานกลาง 3-5 วัน/สัปดาห์, เคลื่อนที่ตลอดเวลา</item>
+        <item>ออกกำลังกายหรือเล่นกีฬาอย่างหนัก 6-7 วัน/สัปดาห์</item>
+        <item>ออกกำลังกายหรือเล่นกีฬาอย่างหนัก หรือเป็นนักกีฬา ทำงานที่ใช้แรงงานมาก</item>
+    </string-array>
+    <string-array name="Meal_list">
+        <item>เช้า</item>
+        <item>กลางวัน</item>
+        <item>เย็น</item>
+    </string-array>
+    <string-array name="day_list">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+
+    <string-array name="month_list">
+        <item>มกราคม</item>
+        <item>กุมภาพันธ์</item>
+        <item>มีนาคม</item>
+        <item>เมษายน</item>
+        <item>พฤษภาคม</item>
+        <item>มิถุนายน</item>
+        <item>กรกฎาคม</item>
+        <item>สิงหาคม</item>
+        <item>กันยายน</item>
+        <item>ตุลาคม</item>
+        <item>พฤศจิกายน</item>
+        <item>ธันวาคม</item>
+    </string-array>
+
+    <string-array name="year_list">
+        <item>2560</item>
+        <item>2559</item>
+        <item>2558</item>
+        <item>2557</item>
+        <item>2556</item>
+        <item>2555</item>
+        <item>2554</item>
+        <item>2553</item>
+        <item>2552</item>
+        <item>2551</item>
+        <item>2550</item>
+        <item>2549</item>
+    </string-array>
+</resources>

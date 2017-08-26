@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">ApplicationForHealthy</string>
+    <string name="login">Login to Facebook</string>
+    <string name="Icon_height"></string>
+    <string name="Icon_wigth"></string>
+    <string name="height">ส่วนสูง</string>
+    <string name="wight">น้ำหนัก</string>
+    <string name="cm">ซม.</string>
+    <string name="kg">กก.</string>
+    <string name="nature">ลักษณะ</string>
+    <string name="next">ถัดไป</string>
+    <string name="tab">บันทึกกิจกรรม</string>
+    <string name="Icon_note"></string>
+    <string name="h">หัวเรื่อง</string>
+    <string name="content">รายละเอียด</string>
+    <string name="btn_con">ยืนยัน</string>
+    <string name="title_activity_exercise1">exercise1Activity</string>
+    <string name="tab_exercise">ออกกำลังกาย > </string>
+    <string name="period">เวลาที่แนะนำ</string>
+    <string name="minute">นาที</string>
+    <string name="guide_time">เวลาที่แนะนำ</string>
+    <string name="number_time">จำนวนเวลาที่ออกกำลังกาย</string>
+    <string name="input_time">เวลาที่แนะนำ</string>
+    <string name="back_to_home">กลับไปหน้าแรก</string>
+    <string name="tab_history">ประวัติจำนวนแคลอรี่</string>
+    <string name="list_food">รายการอาหาร</string>
+    <string name="list_exercise">รายการการออกกำลังกาย</string>
+    <string name="tab_profile">ข้อมูลส่วนตัว น้ำหนัก-ส่วนสูง</string>
+    <string name="txtStatus1"></string>
+    <string name="txt_Name"></string>
+    <string name="facebook_app_id">148989832328469</string>
+    <string name="btn_date">เลือกวันที่</string>
+    <string name="btn_time">เลือกเวลา</string>
+    <string name="btn_add_notification">เพิ่มเวลาเเจ้งเตือน</string>
+    <string name="btn_edit_notification">แก้ไขเวลาเเจ้งเตือน</string>
+    <string name="btn_delete_notification">ลบเวลาเเจ้งเตือน</string>
+    <string name="btn_next_note2">บันทึกข้อมูลบันทึกประจำวัน</string>
+    <string name="btn_edit">แก้ไขข้อมูลบันทึกประจำวัน</string>
+    <string name="btn_delete">ลบข้อมูลบันทึกประจำวัน</string>
+    <string name="SH_datetime">วันที่เวลาที่คุณเลือก</string>
+    <string name="S_datetime"></string>
+    <string name="menu_profile">น้ำหนัก-ส่วนสูง</string>
+    <string name="menu_history">ประวัติจำนวนแคลอรี่</string>
+    <string name="logout">ออกจากระบบ</string>
+    <string name="tab_notification">จัดการเวลาการแจ้งเเตือน</string>
+    <string name="get_json">Get Json</string>
+    <string name="parse_json">Parse JSON</string>
+    <string name="textview_id">id</string>
+    <string name="textview_username">username</string>
+    <string name="textview_password">password</string>
+    <string name="button_previous">PREVIOUS</string>
+    <string name="button_next">NEXT</string>
+    <string name="thumbnail">thumbnail</string>
+
+    <string name="birthday">วันเกิด</string>
+    <string name="txtfood"></string>
+
+    <string name="tab_food_detail">รายการอาหาร ></string>
+
+    <string name="spinner_nature">เลือก ลักษณะการออกกำลัง</string>
+
+
+</resources>
